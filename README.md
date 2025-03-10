@@ -1,6 +1,8 @@
 # Fariness-in-Personaleinsatzplanung
 Code zu meiner Bachelorarbeit für Kapitel 4. 
 
+Code zu Kapitel 4.1.2 in der Datei 4.1.2.ipynb
+Code zu Kapitel 4.1.4 in der Datei 4.1.4.ipynb
 
 # Schichtplanungsoptimierung mit PuLP
 
